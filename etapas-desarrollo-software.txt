@@ -1,0 +1,7 @@
+1. Planificacion
+2. Analisis
+3. Diseño
+4. Implementación
+5. Pruebas
+6. Instalacion
+7. Mantenimiento
